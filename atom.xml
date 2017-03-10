@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>茶糖的博客</title>
+  <subtitle>味道甜而不腻，略带茶香，别具一格。!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hongfengwuxue.github.io/"/>
+  <updated>2017-03-09T01:32:59.435Z</updated>
+  <id>http://hongfengwuxue.github.io/</id>
+  
+  <author>
+    <name>Changle Tang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my new post</title>
+    <link href="http://hongfengwuxue.github.io/2017/03/09/hello-world/"/>
+    <id>http://hongfengwuxue.github.io/2017/03/09/hello-world/</id>
+    <published>2017-03-08T16:00:00.000Z</published>
+    <updated>2017-03-09T01:32:59.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>华丽的分割线<br><strong>这是加粗的</strong><br><strong>继续加粗</strong><br>知识的海洋<br>我的第一篇博客就要诞生了<br><em>来个斜体ctr+I</em><br><strong>快捷键生成的粗体ctr+B</strong></p>
+<h2 id="这是另一个标题"><a href="#这是另一个标题" class="headerlink" title="这是另一个标题"></a>这是另一个标题</h2><h2 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h2><p>1.有序列表<br>2.无序列表</p>
+<p>加个表格试试<br>| 第一列      |     第二列 |   第三列   |<br>| :——– | ——–:| :——: |<br>| 字段1    |   字段2 |  字段3  |</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;华丽的分割线&lt;br&gt;&lt;strong&gt;这是加粗的&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;继续加粗&lt;/strong&gt;&lt;br&gt;知识的海洋&lt;br&gt;我的第一篇博客就要诞生了&lt;br&gt;&lt;em&gt;来个斜体ctr+I&lt;/em&gt;&lt;br&gt;&lt;strong&gt;快捷键生成的粗体ctr+B&lt;/strong
+    
+    </summary>
+    
+      <category term="blog" scheme="http://hongfengwuxue.github.io/categories/blog/"/>
+    
+    
+      <category term="新文章" scheme="http://hongfengwuxue.github.io/tags/%E6%96%B0%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+</feed>
